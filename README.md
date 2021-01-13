@@ -15,7 +15,7 @@ Do you want to send files safely to your friends? This is the thing for you.
 5. [Optional] Make sure you have sent everything that has to be sent and run `clean_folders.bat` to remove all of your contents from all folders.  
 
 ### Hosting the temporary server
-1. Run start_server.bat (two terminals will open up) - the 'ngrok' one is of importance to us (the more colorful one).  
+1. Run `start_server.bat` (two terminals will open up) - the 'ngrok' one is of importance to us (the more colorful one).  
 2. Give your friend the URL you find in above step.  
 3. Once they upload the zip file, you will find you have received it under `uploads` folder.
 4. Access it using the password they share with you.
